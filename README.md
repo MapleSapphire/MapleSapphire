@@ -4,9 +4,9 @@
 
 
 ### 📌
-### 🚨Status: Modeling and Simulation senior at Old Dominion University🏫
-### 🌱Learning: Game design🎮 and development🏗️ in Unity
-### 🧔Pronouns: he/him/his
+### 🚨 **Status:** Modeling and Simulation senior at Old Dominion University🏫
+### 🌱 **Learning:** Game design🎮 and development🏗️ in Unity
+### 🧔 **Pronouns:** he/him/his
 
 
 
