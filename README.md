@@ -1,6 +1,11 @@
-# Howdy! :cowboy_hat_face:
+# Howdy!🤠
 
-### Hi there 👋
+## You've reached the information page📰 about Daniel Conrad.
+
+## 📌
+### 🚨Status: Modeling and Simulation senior at Old Dominion University🏫
+### 🌱Learning: Game design🎮 and development🏗️ in Unity
+### 🧔Pronouns: he/him/his
 
 <!--
 **MapleSapphire/MapleSapphire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
