@@ -1,26 +1,12 @@
-# Howdy!🤠
+# Howdy🤠, I'm Daniel Conrad!
+### aka MapleSapphire🍁💎 (based on my favorite flavor and video game)
 
-## You've reached the information page📰 about Daniel Conrad
-
+## You've reached my information page📰
 
 ### 📌
 🚨 **Status:** Modeling and Simulation senior at Old Dominion University🏫\
 🌱 **Learning:** Game design🎮 and development🏗️ in Unity\
 🧔 **Pronouns:** he/him/his\
+📧 **Contact:** dconr001@odu.edu\
 
-
-
-<!--
-**MapleSapphire/MapleSapphire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking forward to gradutation👨‍🎓! This last semester I chose to take MSIM 408 Intro to Game Development and GAME 395 Design & Development with Unity engine. I loved❤️ my previous game studies courses at Old Dominion and wanted to have more experience. Will I be in a game development role after college? I hope so!
