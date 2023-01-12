@@ -2,12 +2,12 @@
 
 ## You've reached the information page📰 about Daniel Conrad
 
-<p align="center">
+
 ### 📌
 ### 🚨Status: Modeling and Simulation senior at Old Dominion University🏫
 ### 🌱Learning: Game design🎮 and development🏗️ in Unity
 ### 🧔Pronouns: he/him/his
-</p>
+
 
 
 <!--
